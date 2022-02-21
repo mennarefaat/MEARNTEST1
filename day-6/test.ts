@@ -1,1 +1,1 @@
-class test{}
+// just test2
